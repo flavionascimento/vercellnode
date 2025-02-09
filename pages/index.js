@@ -11,8 +11,9 @@ function Home() {
 
   return (
     <div>
-      <h1>Welcome cccccto My Next.js App</h1>
-      <p>This is the home page of your application.</p>
+      <h1>Bem vindo a Highz</h1>
+      <p>Nascemosopara revolucionar o seu BPO
+    .</p>
       <div>
         <p>Contador: {count}</p>
         <button onClick={handleIncrement}>Aumentar</button>
